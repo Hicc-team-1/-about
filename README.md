@@ -32,6 +32,7 @@
 <li>식사 카테고리 선택 기능</li>
 <li>AI 질문 기능</li>
 <li>식당 정보 출력 기능</li>
+[기능명세서](https://docs.google.com/spreadsheets/d/1BnW193bQnjoHIYXlKABpUWZLV8bv-KteynAi6XnroDM/edit?usp=sharing)
 
 
 아키텍쳐
