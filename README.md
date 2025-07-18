@@ -28,7 +28,7 @@
 
 시작화면|검색화면|검색결과화면|최종결과화면
 ---|---|---|---
-<img src="KakaoTalk_20250718_131750075.png" width="150" alt="소개 이미지">|<img src="KakaoTalk_20250718_131750075_01.png" width="150" alt="소개 이미지"><img src="KakaoTalk_20250718_131750075_02.png" width="100" alt="소개 이미지">|<img src="KakaoTalk_20250718_131750075_03.png" width="150" alt="소개 이미지">|<img src="KakaoTalk_20250718_131750075_04.png" width="150" alt="소개 이미지"><img src="KakaoTalk_20250718_131750075_05.png" width="150" alt="소개 이미지">
+<img src="KakaoTalk_20250718_131750075.png" width="150" alt="소개 이미지">|<img src="KakaoTalk_20250718_131750075_01.png" width="150" alt="소개 이미지"><img src="KakaoTalk_20250718_131750075_02.png" width="150" alt="소개 이미지">|<img src="KakaoTalk_20250718_131750075_03.png" width="150" alt="소개 이미지">|<img src="KakaoTalk_20250718_131750075_04.png" width="150" alt="소개 이미지"><img src="KakaoTalk_20250718_131750075_05.png" width="150" alt="소개 이미지">
 
 주요 기능
 ---
