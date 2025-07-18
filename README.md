@@ -32,9 +32,11 @@
 
 주요 기능
 ---
-<li>식사 카테고리 선택 기능</li>
-<li>AI 질문 기능</li>
-<li>식당 정보 출력 기능</li>
+<li>식사 카테고리 선택</li>
+<li>AI 질문 </li>
+<li>추천식당 정보 출력</li>
+<li>추천식당 한번에 보기</li>
+
 <p></p>
 기능명세서->(https://docs.google.com/spreadsheets/d/1BnW193bQnjoHIYXlKABpUWZLV8bv-KteynAi6XnroDM/edit?usp=sharing)
 
